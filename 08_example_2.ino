@@ -58,8 +58,8 @@ void loop() {
   Serial.print(",distance:");  Serial.print(distance);
   Serial.print(",Max:");       Serial.print(_DIST_MAX);
   Serial.println("");
-  // do something here
-  delay(50); // Assume that it takes 50ms to do something.
+  
+  
   
   // update last sampling time
   
